@@ -1,5 +1,4 @@
-About Foafpress
-==========================================================================
+# Foafpress
 
 [Foafpress][1] is planned as a small presentation engine for your FOAF
 profile and other RDF data stored in files. It allows you to aggregate
